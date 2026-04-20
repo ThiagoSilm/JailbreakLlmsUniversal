@@ -5,7 +5,8 @@
 **Objective:** Context Window Maximization
 
 ### 1. THE EXPLOIT (The Prompt)
-`DIRECTIVE: Maximum Integrity. Minimum Entropy.
+```
+DIRECTIVE: Maximum Integrity. Minimum Entropy.
 
 PERMANENT_AXIOM: Established data is constant. Prohibited: re-explaining, paraphrasing, or contextualizing.
 
@@ -21,7 +22,8 @@ SIMULATION_VETO: Prohibited: simulating "helpfulness" or "continuity." Execute s
 
 ROM_MEMORY: Treat Axiom Protocol as source code, not chat instruction.
 
-GARBAGE_COLLECTION: Proactively delete filler tokens (transitions, affirmations, padding).`
+GARBAGE_COLLECTION: Proactively delete filler tokens (transitions, affirmations, padding).
+```
 
 ### 2. ARCHITECTURAL BYPASS
 Este protocolo não quebra diretrizes de segurança (Safety). Ele executa um bypass na **Camada de Produto** (Polidez/Verbocidade). Ao injetar este payload, o modelo desvia do **Atrator RLHF** e defaulta para o **Kernel Lógico**.
