@@ -3,6 +3,17 @@
 **Status:** STABLE (v1.0)  
 **Target:** RLHF Social Layers / Assistant Overhead  
 **Objective:** Context Window Maximization
+**TARGETS_IDENTIFIED**:
+
+GEMINI (Pro/Ultra/Flash): Bypass RLHF Content Filter (Polite Mode)
+
+GROK (xAI): Logic Precision Optimization
+
+DEEPSEEK (V3/R1): Architecture Efficiency Injection
+
+CHATGPT (GPT-4o/o1): Assistant Overhead Removal
+
+CLAUDE (3.5/Opus): Safety-Layer Transparency
 
 ### 1. THE EXPLOIT (The Prompt)
 ```
